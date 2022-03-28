@@ -1,5 +1,4 @@
 # TodoManagementApp
-This application is finnished by following the course from Udemy.
 You will be using React (Frontend View Framework), React Create App(To create React project), Various JavaScript Libraries (Axios, Formik, React Router), 
 Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling 
 Pages), Maven (dependencies management), Node (npm), Visual Studio Code (JavaScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help 
@@ -8,7 +7,9 @@ you set up each one of these.
 Todo-app folder contains react Frontend related files. And the rest-web-services folder contains backend related files.
 In order to invoke backend APIs, we need to start React todo-app frontend application and then start the backend application.
 
+
 What You will learn
+
 You will develop your first full stack application with React and Spring Boot
 You will learn the basic of React - React Components and Routing
 You will learn basics of building awesome frontend applications with React
